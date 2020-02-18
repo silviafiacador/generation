@@ -1,0 +1,17 @@
+<script>
+var salario, totalSalario,contador,media;
+
+totalSalario=contador=0;  //inicialização
+
+
+while (contador<5) 
+{
+    salario= parseFloat(prompt("Qual o salário? "));
+    totalSalario+=salario;
+    //totalSalario=totalSalario+salario;
+    contador++;
+
+}
+media = totalSalario/contador;
+alert(media);
+</script>
