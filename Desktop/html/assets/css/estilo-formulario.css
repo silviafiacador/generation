@@ -1,0 +1,21 @@
+* {box-sizing: border-box;
+margin:0;
+padding:0;}
+
+h1 {text-align: center;
+color:rebeccapurple;}
+
+textarea {resize: none;}
+
+#caixa-formulario {
+    margin: 0 auto;
+    width: 550px;
+    border-radius:50px;
+    border: red 6px solid;  
+    background-color: royalblue;
+    padding: 20px;
+    background-image: url("../imagens/ipe.jfif");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
