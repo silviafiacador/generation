@@ -1,0 +1,28 @@
+/* comentário */
+
+/*
+sintaxe:
+elemento {propriedade:valor;
+    propriedade: valor}
+    */
+    /* seletor de elemento */
+    h1{color: magenta;
+        text-align: center;
+        font-size: 60px;   
+        font-family: 'Lacquer', arial;  }
+
+    /* seletor de id */
+    #paragrafo1 {
+        color: chocolate;
+        font-family:'Lacquer',arial;  }
+
+    #paragrafo2 {
+        font-weight: bold;
+        font-style: italic;
+        font-size: 30px;
+        font-family:'Lacquer',arial; 
+        background-color: yellowgreen;
+    } 
+    .grupo1 {font-size: 50px;}   
+    .grupo2 {color:magenta;}
+    
